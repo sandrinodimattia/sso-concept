@@ -6,7 +6,7 @@ function login(username, password, callback) {
   var IDP_ENDPOINT = "http://21796cc4.ngrok.io/pasaload/api/Authentication/";
   // var IDP_ENDPOINT = "https://staging.pldthome.com/pasaload/api/Authentication/";
 
-  // DEBUG ONLY
+  // DEBUG ONLY - test
   console.log('username: ' + username);
   console.log('password: ' + password);
 
