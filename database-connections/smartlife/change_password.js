@@ -1,6 +1,6 @@
 function changePassword(email, newPassword, callback) {
   
-  // DEBUG ONLY
+  // DEBUG ONLY -test
   console.log('email: ' + email);
   console.log('newPassword: ' + newPassword);
   

@@ -1,6 +1,6 @@
 function create(user, callback) {
   
-    // DEBUG ONLY
+    // DEBUG ONLY - test
   console.log('user: ' + JSON.stringify(user));
   
   var request = require('request');
